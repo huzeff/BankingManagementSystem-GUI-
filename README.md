@@ -36,13 +36,13 @@ A **desktop banking application** built using **Java Swing** and **MySQL**. This
   ## Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](Screenshots/login.png)
 
 ### ATM Dashboard
-![ATM Dashboard](screenshots/dashboard.png)
+![ATM Dashboard](Screenshots/dashboard.png)
 
 ### Deposit Money
-![Deposit](screenshots/deposit.png)
+![Deposit](Screenshots/deposit.png)
 
 
 ---
@@ -52,5 +52,6 @@ A **desktop banking application** built using **Java Swing** and **MySQL**. This
 1. Clone the repository:  
    ```bash
    git clone https://github.com/YourUsername/BankingManagementSystem.git
+
 
 
